@@ -4,6 +4,10 @@ Course project for **McGill COMP 551: Applied Machine Learning** — Mini-Projec
 
 This repository contains a from-scratch NumPy implementation of multi-class logistic regression (softmax regression) trained with mini-batch stochastic gradient descent (SGD) and momentum. The full write-up is available in [Report/writeup.pdf](Report/writeup.pdf).
 
+Hand-rolling gradient descent when PyTorch exists: character building, NumPy style.
+
+![Hyper-parameter evolution during 5-fold cross-validation](hyperparameter-evolution.png)
+
 ---
 
 ## Overview
