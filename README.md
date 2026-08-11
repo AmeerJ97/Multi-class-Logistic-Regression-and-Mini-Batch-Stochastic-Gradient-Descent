@@ -1,7 +1,6 @@
 # Multi-class Softmax Regression with Mini-Batch Stochastic Gradient Descent
 
-Course project for **McGill COMP 551: Applied Machine Learning** — Mini-Project 2, Group 49, Fall 2020.  
-Authors: Doreen Duoduaah, Ameer Ibrahim Osman, Ella Malone.
+Course project for **McGill COMP 551: Applied Machine Learning** — Mini-Project 2, Group 49, Fall 2020 (3-person team).  
 
 This repository contains a from-scratch NumPy implementation of multi-class logistic regression (softmax regression) trained with mini-batch stochastic gradient descent (SGD) and momentum. The full write-up is available in [Report/writeup.pdf](Report/writeup.pdf).
 
